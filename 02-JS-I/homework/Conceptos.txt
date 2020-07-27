@@ -1,0 +1,11 @@
+Variables: Se utilizan para guardar el valor de un dato, para un posterior uso. 
+
+Strings: Es una cadena de texto.
+
+Funciones (argumentos, return): Es un conjunto de líneas de código que se utiliza para cumplir una determinada tarea. 
+	- Argumentos: Pueden ser 0 o más, estos son recibidos por la función para ejecutarse.
+	- Return: Se usa para devolver un valor de la función, además, la función termina su ejecución en un return.
+
+Declaraciones if: Se usa para evaluar una o más condiciones.
+
+Valores booleanos: El tipo de dato booleano, es un tipo de variable que solo tiene dos valores, verdadero (true) o falso (false).
