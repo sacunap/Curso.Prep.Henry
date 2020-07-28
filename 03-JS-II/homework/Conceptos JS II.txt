@@ -1,0 +1,6 @@
+for: Es un bucle, que consta de tres argumentos, una variable con un valor inicial, una expresión condicional de salida y un contador.
+
+&&, ||, ! : Son operadores lógicos que entregan valores booleanos.
+	- && : Es el significado de y (and), se utiliza dentro de los condicionales, entrega un valor verdadero, solo si ambas expresiones son verdaderas, de lo contrario, entrega un valor falso.
+	- || : Significa o (or), entrega un valor verdadero, si solo una o dos de las expresiones son verdaderas, en el caso que ambas sean falsas, entregará un valor falso.
+	- ! : Es una negación.
