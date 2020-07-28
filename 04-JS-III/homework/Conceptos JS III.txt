@@ -1,0 +1,1 @@
+Arrays: Los Arrays son listas o arreglos, se utilizan para contener distintos tipos de datos, los cuales se almacenan en un solo lugar, para un facil acceso.
