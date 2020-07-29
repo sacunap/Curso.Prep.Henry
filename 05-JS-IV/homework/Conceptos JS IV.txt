@@ -1,0 +1,11 @@
+Objetos: Es un tipo de dato, utilizado para guardar un conjunto de datos. Puede contener una lista de propiedades.
+
+Propiedades: Una propiedad es un par llave:valor, siendo la llave un string y el valor, cualquier cosa.
+
+Métodos: Si una llave es una función, se denomina método.
+
+Bucle for...in: Recorre todos los elementos de un objeto.
+
+Notación de puntos vs notación de corchetes: Ambas son formas para acceder a las propiedades de un objeto.
+	- Notación de puntos: Es facil de leer, solo se puede usar con un identificador alfanumérico, no puede iniciar con un número y tampoco puede contener variables.
+	- Notación de corchetes: Se pueden utilizar strings o una variable que haga referencia a un string. También se pueden usar espacios y strings que comiencen con números.
