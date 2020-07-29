@@ -1,0 +1,3 @@
+prototype: Todos los objetos heredan propiedades y métodos desde un prototype, este sirve para añadir nuevas propiedades a una función.
+
+Constructors (de Clases): Es una función que crea un objeto a partir de una clase.
