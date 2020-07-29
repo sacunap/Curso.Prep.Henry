@@ -1,0 +1,1 @@
+Funciones Callback: Sirve para llamar a una función desde otra función, a través del argumento.
